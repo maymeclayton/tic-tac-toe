@@ -1,5 +1,8 @@
 //Variable overrides
 
+.row {
+  height: 150px;
+}
 
 
 
@@ -10,11 +13,3 @@
 
 // Bootstrap and its default variables
 @import "../../node_modules/bootstrap/scss/bootstrap";
-
-
-.col-lg{
-
-  max-width: 100px;
-  max-height: 100px;
-
-}
