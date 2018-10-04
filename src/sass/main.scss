@@ -1,8 +1,30 @@
 //Variable overrides
 
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+$font-family-base: 'Shadows Into Light', cursive;
+
+$font-size-base: 1.5rem !default;
+
+
 .row {
   height: 150px;
+  width: 500px;
 }
+
+div{
+  display: inline-block;
+}
+
+body{
+  text-align: center;
+}
+
+.space{
+  font-size: 80px;
+}
+
+
 
 
 
